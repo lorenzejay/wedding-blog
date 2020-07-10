@@ -206,12 +206,7 @@ article h4{
         display: grid;
         grid-template-columns: repeat(1, 1fr);
     }
-    .email-signup{
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: space-evenly;
-    }
+
     .email-signup input{
         font-size: 12px;
         padding: 12px 20px;
@@ -222,8 +217,8 @@ article h4{
     }
     .email-signup button {
         margin-top: 15px;
-        padding: 10px 30px;
-        margin-left: 20px;
+        padding: 10px 10px;
+        margin-left: 40px;
     }
     
 
