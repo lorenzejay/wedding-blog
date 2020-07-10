@@ -213,12 +213,12 @@ article h4{
         margin-top: 12px;
     }
     .email-input{
-        margin-left: 90px;
+        display: flex;
+        flex-direction: column;
     }
     .email-signup button {
         margin-top: 15px;
-        padding: 10px 10px;
-        margin-left: 40px;
+        
     }
     
 
