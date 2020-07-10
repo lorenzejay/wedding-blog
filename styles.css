@@ -202,6 +202,7 @@ article h4{
         margin-bottom: 20vh;
     }
     .card-container{
+        min-height: 65vh;
         display: grid;
         grid-template-columns: repeat(1, 1fr);
     }
